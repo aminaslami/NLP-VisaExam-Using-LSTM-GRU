@@ -1,12 +1,13 @@
 # NLP VisaExam Using LSTM & GRU
-Danışman: Doç. Dr. Murat AYDOĞAN
+**Danışman:** Doç. Dr. Murat AYDOĞAN
 
-Ders: Doğal Dil İşleme
+**Ders:** Doğal Dil İşleme
 
-Hazırlayan: Amin ASLAMI
+**Hazırlayan:** Amin ASLAMI
 
-Bölüm: Yazılım Müh / Teknoloji Fakültesi
+**Bölüm:** Yazılım Müh / Teknoloji Fakültesi
 
+**Üniversite:** Fırat Üniversites - Yüksek Lisans
 
 ## License: https://creativecommons.org/publicdomain/zero/1.0/
 
