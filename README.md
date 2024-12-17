@@ -4,3 +4,5 @@
 ## Dataset Source: https://www.kaggle.com/datasets/sbhatti/financial-sentiment-analysis
 
 
+
+Project Source: https://www.kaggle.com/code/kooraabhinav/sentiment-analysis-using-lstm-and-gru
