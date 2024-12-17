@@ -1,4 +1,4 @@
-# NLP VisaExam Using LSTM & GRU
+# Doğal Dil İşleme - Vize Ödevi
 **Danışman:** Doç. Dr. Murat AYDOĞAN
 
 **Ders:** Doğal Dil İşleme
