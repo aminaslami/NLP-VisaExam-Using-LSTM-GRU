@@ -3,6 +3,10 @@ Danışman: Doç. Dr. Murat AYDOĞAN
 
 Ders: Doğal Dil İşleme
 
+Hazırlayan: Amin ASLAMI
+
+Bölüm: Yazılım Müh / Teknoloji Fakültesi
+
 
 ## License: https://creativecommons.org/publicdomain/zero/1.0/
 
