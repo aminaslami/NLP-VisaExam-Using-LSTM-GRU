@@ -1,5 +1,6 @@
 # NLP VisaExam Using LSTM & GRU
 Danışman: Doç. Dr. Murat AYDOĞAN
+
 Ders: Doğal Dil İşleme
 
 
