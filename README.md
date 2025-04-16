@@ -3,9 +3,9 @@
 
 **Lesson:** Natural Language Processing
 
-**Hazırlayan:** Amin ASLAMI
+**Preparer:** Amin ASLAMI
 
-**Bölüm:** Yazılım Müh / Teknoloji Fakültesi
+**:** Yazılım Müh / Teknoloji Fakültesi
 
 **Üniversite:** Fırat Üniversites - Yüksek Lisans
 
