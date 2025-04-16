@@ -1,7 +1,7 @@
 # Natural Language Processing - Midterm Homework
-**Danışman:** Assoc. Prof. Dr. Murat AYDOĞAN
+**Advisor:** Assoc. Prof. Dr. Murat AYDOĞAN
 
-**Ders:** Doğal Dil İşleme
+**Lesson:** Doğal Dil İşleme
 
 **Hazırlayan:** Amin ASLAMI
 
