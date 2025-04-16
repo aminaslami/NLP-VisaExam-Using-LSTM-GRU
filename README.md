@@ -1,5 +1,5 @@
 # Natural Language Processing - Midterm Homework
-**Danışman:** Doç. Dr. Murat AYDOĞAN
+**Danışman:** Assoc. Prof. Dr. Murat AYDOĞAN
 
 **Ders:** Doğal Dil İşleme
 
