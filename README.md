@@ -1,4 +1,4 @@
-# Natural Language Processing - Midterm Homework
+# Natural Language Processing - Midterm Homework (Project)
 **Advisor:** Assoc. Prof. Dr. Murat AYDOĞAN
 
 **Lesson:** Natural Language Processing
