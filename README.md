@@ -5,7 +5,7 @@
 
 **Preparer:** Amin ASLAMI
 
-**Department** Yazılım Müh / Teknoloji Fakültesi
+**Department** Software Engineering / Faculty of Technology
 
 **Üniversite:** Fırat Üniversites - Yüksek Lisans
 
