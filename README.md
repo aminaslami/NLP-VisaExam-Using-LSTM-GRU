@@ -7,7 +7,7 @@
 
 **Department** Software Engineering / Faculty of Technology
 
-**Üniversite:** Fırat Üniversites - Yüksek Lisans
+**University:** Fırat Üniversites - Yüksek Lisans
 
 -------------------------------------------------------------------------------------
 License: https://creativecommons.org/publicdomain/zero/1.0/
