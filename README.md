@@ -1,4 +1,4 @@
-# Doğal Dil İşleme - Vize Ödevi
+# Natural Language Processing - Midterm Homework
 **Danışman:** Doç. Dr. Murat AYDOĞAN
 
 **Ders:** Doğal Dil İşleme
